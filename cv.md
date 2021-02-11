@@ -2,12 +2,14 @@
 # **Bogdan, Kurenkov**
 ### Engineer
 ## **Contacts**
-### Phone number: +375(25)701-89-74;
-### e-mail: badikradik123@gmail.com
+### Phone number: 
++375(25)701-89-74;
+### e-mail:
+badikradik123@gmail.com
 ## **Summary**
-### Want to become a great front-end developer, stressresistant
+Want to become a great front-end developer, stressresistant
 ## **Skills**
-### HTML, CSS, JS, C++
+HTML, CSS, JS, C++
 ## **Code example**
 ```
 var n = function(digit) {
@@ -32,6 +34,6 @@ function times(r) { return function(l) { return l * r; }; }
 function dividedBy(r) { return function(l) { return Math.floor(l / r);};}
 ```
 ## **Education**
-### *Belarussian-Russian University(2020, specialist)
+Belarussian-Russian University(2020, specialist)
 ## **English**
-### English (B1)
+ English (B1)
