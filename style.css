@@ -1,0 +1,95 @@
+*,
+*:before,
+*:after {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+
+body {
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    background-image: url(img/fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section {
+    padding: 5px 0 5px 0 ;
+    border-bottom: 3px solid #000000;
+}
+section:hover{
+    background-color: gray;
+    transition: all ease-in-out .5s;
+}
+
+.card-title{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin: 0px;
+
+}
+
+ul {
+    margin: 0 0 0 46%;
+}
+li  {
+    width: 100%;
+    text-align: left;
+    list-style-position: inside;
+}
+
+article:hover {
+    background-color: gray;
+    transition: all ease-in-out .5s;
+}
+
+article {
+    padding: 15px 0 0 0 ;
+    border-bottom: 3px solid #000000;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contacts{
+   line-height: 1;
+}
+
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 200px ;
+    font-size: 18px;
+    color: black;
+    border-top: 2px solid black;
+    text-align: center
+}
+
+.tekst{
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+
