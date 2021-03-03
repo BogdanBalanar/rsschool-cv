@@ -1,2 +1,2 @@
 
-## https://bogdanbalanar.github.io/rsschool-cv/
+https://bogdanbalanar.github.io/rsschool-cv/
